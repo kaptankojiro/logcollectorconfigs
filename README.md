@@ -1,1 +1,2 @@
 # logcollectorconfigs
+Winlogbeat Configuration Example
